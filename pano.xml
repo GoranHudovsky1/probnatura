@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.0" apprev="17213" start="node4">
+  <panorama id="node4">
+    <input overlap="1" leveltilesize="510" width="1680" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" height="1680" levelbias="0.400">
+      <level preload="0" predecode="0" width="1680" height="1680"/>
+      <level preload="0" predecode="0" width="840" height="840"/>
+      <level preload="1" predecode="1" width="420" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="137.9" fovmode="0">
+      <start projection="4" fov="70" pan="170.955" tilt="-6.06113"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovfisheye="360" pan="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata datetime="10.10.2020. 14:58" tags="VLADO Zrinščina" comment="" latitude="45.998419" customnodeid="" description="" info="" author="" source="" title="" copyright="" longitude="16.344458"/>
+    <hotspots width="180" wordwrap="1" height="0">
+      <label background="1" width="180" textcolor="0xb52c40" backgroundalpha="1" border="0" enabled="1" wordwrap="1" borderradius="0" height="0" textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0x58a273"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="images/aurora 3.jpg" description="" skinid="ht_image" title="Slika1" id="Point01" pan="-158.33" tilt="-7.18" target="_blank"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendcolor="0x000000" type="crossdissolve" blendtime="1" enabled="1" zoomout="0" zoomfov="20" softedge="0" zoomoutpause="1" zoomin="0"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" useanimation="1" delay="5.00" returntohorizon="0.000" speed="0.400" nodedelay="0.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" simulatemass="1" hideabout="0" sensitivity="8" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" leveltilesize="510" width="1680" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" height="1680" levelbias="0.400">
+      <level preload="0" predecode="0" width="1680" height="1680"/>
+      <level preload="0" predecode="0" width="840" height="840"/>
+      <level preload="1" predecode="1" width="420" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="292.4" fovmode="0">
+      <start projection="4" fov="70" pan="-166.418" tilt="-5.04996"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovfisheye="360" pan="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata datetime="10.10.2020. 14:54" tags="VLADO Zrinščina" comment="" latitude="45.998394" customnodeid="" description="" info="" author="" source="" title="" copyright="" longitude="16.344022"/>
+    <hotspots width="180" wordwrap="1" height="0">
+      <label background="1" width="180" textcolor="0xb52c40" backgroundalpha="1" border="0" enabled="1" wordwrap="1" borderradius="0" height="0" textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0x58a273"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="images/Aurora20201010_160119.jpg" description="" skinid="ht_image" title="Slika2" id="Point01" pan="-169.77" tilt="0.24" target="_blank"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendcolor="0x000000" type="crossdissolve" blendtime="1" enabled="1" zoomout="0" zoomfov="20" softedge="0" zoomoutpause="1" zoomin="0"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" useanimation="1" delay="5.00" returntohorizon="0.000" speed="0.400" nodedelay="0.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" simulatemass="1" hideabout="0" sensitivity="8" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input overlap="1" leveltilesize="510" width="1680" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" height="1680" levelbias="0.400">
+      <level preload="0" predecode="0" width="1680" height="1680"/>
+      <level preload="0" predecode="0" width="840" height="840"/>
+      <level preload="1" predecode="1" width="420" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="167.9" fovmode="0">
+      <start projection="4" fov="80.8869" pan="28.0704" tilt="-6.04192"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovfisheye="360" pan="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata datetime="10.10.2020. 14:57" tags="VLADO Zrinščina" comment="" latitude="45.998481" customnodeid="" description="" info="" author="" source="" title="" copyright="" longitude="16.344117"/>
+    <hotspots width="180" wordwrap="1" height="0">
+      <label background="1" width="180" textcolor="0xb52c40" backgroundalpha="1" border="0" enabled="1" wordwrap="1" borderradius="0" height="0" textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0x58a273"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="images/Aurora20201010_160119.jpg" description="" skinid="ht_image" title="" id="Point01" pan="-327.83" tilt="-3.46" target="_blank"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendcolor="0x000000" type="crossdissolve" blendtime="1" enabled="1" zoomout="0" zoomfov="20" softedge="0" zoomoutpause="1" zoomin="0"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" useanimation="1" delay="5.00" returntohorizon="0.000" speed="0.400" nodedelay="0.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" simulatemass="1" hideabout="0" sensitivity="8" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input overlap="1" leveltilesize="510" width="1680" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" height="1680" levelbias="0.400">
+      <level preload="0" predecode="0" width="1680" height="1680"/>
+      <level preload="0" predecode="0" width="840" height="840"/>
+      <level preload="1" predecode="1" width="420" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="149.2" fovmode="0">
+      <start projection="4" fov="70" pan="176.233" tilt="-7.41697"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovfisheye="360" pan="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata datetime="10.10.2020. 15:01" tags="VLADO Zrinščina" comment="" latitude="45.998475" customnodeid="" description="" info="" author="" source="" title="" copyright="" longitude="16.344500"/>
+    <hotspots width="180" wordwrap="1" height="0">
+      <label background="1" width="180" textcolor="0xb52c40" backgroundalpha="1" border="0" enabled="1" wordwrap="1" borderradius="0" height="0" textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0x58a273"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendcolor="0x000000" type="crossdissolve" blendtime="1" enabled="1" zoomout="0" zoomfov="20" softedge="0" zoomoutpause="1" zoomin="0"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" useanimation="1" delay="5.00" returntohorizon="0.000" speed="0.400" nodedelay="0.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" simulatemass="1" hideabout="0" sensitivity="8" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input overlap="1" leveltilesize="510" width="1680" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" height="1680" levelbias="0.400">
+      <level preload="0" predecode="0" width="1680" height="1680"/>
+      <level preload="0" predecode="0" width="840" height="840"/>
+      <level preload="1" predecode="1" width="420" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="165.8" fovmode="0">
+      <start projection="4" fov="90.8731" pan="165.47" tilt="-7.0378"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovfisheye="360" pan="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata datetime="10.10.2020. 15:02" tags="VLADO Zrinščina" comment="" latitude="45.998450" customnodeid="" description="" info="" author="" source="" title="" copyright="" longitude="16.344022"/>
+    <hotspots width="180" wordwrap="1" height="0">
+      <label background="1" width="180" textcolor="0xb52c40" backgroundalpha="1" border="0" enabled="1" wordwrap="1" borderradius="0" height="0" textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0x58a273"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="images/Aurora20201010_164855.jpg" description="" skinid="ht_image" title="Slika4" id="Point01" pan="-186.6" tilt="8.46" target="_blank"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendcolor="0x000000" type="crossdissolve" blendtime="1" enabled="1" zoomout="0" zoomfov="20" softedge="0" zoomoutpause="1" zoomin="0"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" useanimation="1" delay="5.00" returntohorizon="0.000" speed="0.400" nodedelay="0.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" simulatemass="1" hideabout="0" sensitivity="8" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input overlap="1" leveltilesize="510" width="1680" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" height="1680" levelbias="0.400">
+      <level preload="0" predecode="0" width="1680" height="1680"/>
+      <level preload="0" predecode="0" width="840" height="840"/>
+      <level preload="1" predecode="1" width="420" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="292.7" fovmode="0">
+      <start projection="4" fov="70" pan="25.411" tilt="4.60006"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovfisheye="360" pan="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata datetime="10.10.2020. 14:54" tags="VLADO Zrinščina" comment="" latitude="45.998417" customnodeid="" description="" info="" author="" source="" title="" copyright="" longitude="16.343994"/>
+    <hotspots width="180" wordwrap="1" height="0">
+      <label background="1" width="180" textcolor="0xb52c40" backgroundalpha="1" border="0" enabled="1" wordwrap="1" borderradius="0" height="0" textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0x58a273"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="images/aurora1.jpg" description="" skinid="ht_image" title="Slika5" id="Point01" pan="-319.72" tilt="6.38" target="_blank"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendcolor="0x000000" type="crossdissolve" blendtime="1" enabled="1" zoomout="0" zoomfov="20" softedge="0" zoomoutpause="1" zoomin="0"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" useanimation="1" delay="5.00" returntohorizon="0.000" speed="0.400" nodedelay="0.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" simulatemass="1" hideabout="0" sensitivity="8" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" leveltilesize="510" width="1680" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" height="1680" levelbias="0.400">
+      <level preload="0" predecode="0" width="1680" height="1680"/>
+      <level preload="0" predecode="0" width="840" height="840"/>
+      <level preload="1" predecode="1" width="420" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="112.5" fovmode="0">
+      <start projection="4" fov="70" pan="17.5854" tilt="-5.83028"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovfisheye="360" pan="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata datetime="10.10.2020. 14:51" tags="VLADO Zrinščina" comment="" latitude="45.998369" customnodeid="" description="" info="" author="" source="" title="" copyright="" longitude="16.344039"/>
+    <hotspots width="180" wordwrap="1" height="0">
+      <label background="1" width="180" textcolor="0xb52c40" backgroundalpha="1" border="0" enabled="1" wordwrap="1" borderradius="0" height="0" textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0x58a273"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendcolor="0x000000" type="crossdissolve" blendtime="1" enabled="1" zoomout="0" zoomfov="20" softedge="0" zoomoutpause="1" zoomin="0"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" useanimation="1" delay="5.00" returntohorizon="0.000" speed="0.400" nodedelay="0.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" simulatemass="1" hideabout="0" sensitivity="8" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input overlap="1" leveltilesize="510" width="1680" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" height="1680" levelbias="0.400">
+      <level preload="0" predecode="0" width="1680" height="1680"/>
+      <level preload="0" predecode="0" width="840" height="840"/>
+      <level preload="1" predecode="1" width="420" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="153.5" fovmode="0">
+      <start projection="4" fov="70" pan="132.786" tilt="-0.306057"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovfisheye="360" pan="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata datetime="10.10.2020. 14:51" tags="VLADO Zrinščina" comment="" latitude="45.998378" customnodeid="" description="" info="" author="" source="" title="" copyright="" longitude="16.343950"/>
+    <hotspots width="180" wordwrap="1" height="0">
+      <label background="1" width="180" textcolor="0xb52c40" backgroundalpha="1" border="0" enabled="1" wordwrap="1" borderradius="0" height="0" textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0x58a273"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="images/20201010_164701.jpg" description="" skinid="ht_image" title="" id="Point01" pan="-216.66" tilt="0.88" target="_blank"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendcolor="0x000000" type="crossdissolve" blendtime="1" enabled="1" zoomout="0" zoomfov="20" softedge="0" zoomoutpause="1" zoomin="0"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" useanimation="1" delay="5.00" returntohorizon="0.000" speed="0.400" nodedelay="0.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" simulatemass="1" hideabout="0" sensitivity="8" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input overlap="1" leveltilesize="510" width="1680" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" height="1680" levelbias="0.400">
+      <level preload="0" predecode="0" width="1680" height="1680"/>
+      <level preload="0" predecode="0" width="840" height="840"/>
+      <level preload="1" predecode="1" width="420" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="306.4" fovmode="0">
+      <start projection="4" fov="70" pan="-102.477" tilt="-0.789178"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovfisheye="360" pan="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata datetime="10.10.2020. 14:52" tags="VLADO Zrinščina" comment="" latitude="45.998442" customnodeid="" description="" info="" author="" source="" title="" copyright="" longitude="16.343947"/>
+    <hotspots width="180" wordwrap="1" height="0">
+      <label background="1" width="180" textcolor="0xb52c40" backgroundalpha="1" border="0" enabled="1" wordwrap="1" borderradius="0" height="0" textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0x58a273"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="images/Aurora20201010_164628.jpg" description="" skinid="ht_image" title="Slika7" id="Point01" pan="-98.66" tilt="2.11" target="_blank"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendcolor="0x000000" type="crossdissolve" blendtime="1" enabled="1" zoomout="0" zoomfov="20" softedge="0" zoomoutpause="1" zoomin="0"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" useanimation="1" delay="5.00" returntohorizon="0.000" speed="0.400" nodedelay="0.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" simulatemass="1" hideabout="0" sensitivity="8" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input overlap="1" leveltilesize="510" width="1680" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" height="1680" levelbias="0.400">
+      <level preload="0" predecode="0" width="1680" height="1680"/>
+      <level preload="0" predecode="0" width="840" height="840"/>
+      <level preload="1" predecode="1" width="420" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="293.9" fovmode="0">
+      <start projection="4" fov="70" pan="179.189" tilt="-3.94867"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovfisheye="360" pan="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata datetime="10.10.2020. 14:54" tags="VLADO Zrinščina" comment="" latitude="45.998417" customnodeid="" description="" info="" author="" source="" title="" copyright="" longitude="16.343994"/>
+    <hotspots width="180" wordwrap="1" height="0">
+      <label background="1" width="180" textcolor="0xb52c40" backgroundalpha="1" border="0" enabled="1" wordwrap="1" borderradius="0" height="0" textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0x58a273"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="images/aurora1.jpg" description="" skinid="ht_image" title="Slika8" id="Point01" pan="-180.19" tilt="5.61" target="_blank"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendcolor="0x000000" type="crossdissolve" blendtime="1" enabled="1" zoomout="0" zoomfov="20" softedge="0" zoomoutpause="1" zoomin="0"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" useanimation="1" delay="5.00" returntohorizon="0.000" speed="0.400" nodedelay="0.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" rubberband="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" simulatemass="1" hideabout="0" sensitivity="8" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" tags="" comment="" latitude="" customnodeid="" description="" info="" author="" source="" title="" copyright="" longitude=""/>
+  </masternode>
+</tour>
